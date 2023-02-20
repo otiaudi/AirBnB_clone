@@ -1,14 +1,12 @@
 #!/usr/bin/python3
-"""user class
 """
-
+User creation class
+"""
 from models.base_model import BaseModel
-import json
 
 
 class User(BaseModel):
-    '''base model class'''
-
+    """Defines attributes for user creation"""
     email = ""
     password = ""
     first_name = ""
