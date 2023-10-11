@@ -2,6 +2,7 @@
 Welcome to the AirBnB clone project:Before starting,
 This is the console /command interpreter for the alx  Airbnb clone project. The console can be used to store objects in and retrieve objects from a JSON.
 This project is designed to help you build a simplified version of the AirBnB platform and is an essential step towards creating a full web application. In this README, we will guide you through the setup usage, and key information about this project.
+
 -----------------------------------------------------------------------------------------
 This project is aimed at achieving the following key objectives:
 * How to create a Python package
